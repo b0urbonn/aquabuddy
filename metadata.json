@@ -1,0 +1,6 @@
+{
+  "name": "AquaBuddy",
+  "description": "A smart water reminder app that helps you hit your daily hydration goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
